@@ -53,25 +53,6 @@ p {
   font-size: 0.9em;
 }
 
-.social-icons {
-  margin-top: 20px;
-  display: flex;
-  justify-content: center;
-}
-
-.social-icons img {
-  width: 24px;
-  margin: 0 10px;
-}
-
-.social-icons a {
-  transition: transform 0.3s;
-}
-
-.social-icons a:hover {
-  transform: scale(1.2);
-}
-
 .Languages img {
   width: 24px;
   margin: 0 3px;
