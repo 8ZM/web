@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html dir="rtl" lang="ar">
 
 <head>
     <meta charset="UTF-8">
@@ -32,16 +32,16 @@
         <nav class="container">
             <a href="#" class="logo"> <img src="img/logo_pc.png" alt=""></a>
             <div class="links">
-                <a class="active" href="#">Home</a>
-                <a href="#">About</a>
-                <a href="#">Services</a>
-                <a href="#">Projects</a>
-                <a href="#">Contact</a>
+                <a class="active" href="#">الرئيسية</a>
+                <a href="#">نبذة</a>
+                <a href="#">الخدمات</a>
+                <a href="#">المشاريع</a>
+                <a href="#">تواصل معنا</a>
             </div>
             <div class="icons">
                 <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
                 <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                <a href="ar"><button>AR</button></a>
+                <a href="/"><button>EN</button></a>
             </div>
         </nav>
     </header>
@@ -51,14 +51,14 @@
     <div class="home">
         <div class="container">
             <div class="div_text">
-                <h4>Hello, I'm</h4>
-                <h1><span>Mishary Alghamdi</span></h1>
+                <h4>مرحبًا, انا</h4>
+                <h1><span>مشاري الغامدي</span></h1>
                 <h2><span class="multiple-text"></span></h2>
-                <p>I'm a skilled web developer and Python programmer with a passion for creating innovative solutions.
-                    With experience in network design and management, I can help you troubleshoot any IT issues.</p>
+                <p>مطور ويب ماهر ومبرمج بايثون ولدي شغف لإنشاء حلول مبتكرة. لدي خبرة في تصميم وإدارة الشبكات،
+                    ويمكنني مساعدتك في حل أي مشاكل تقنية.</p>
                 <div class="btns">
-                    <a href="#" class="btn">hire me</a>
-                    <a href="#" class="btn_no_bg">Download Resume</a>
+                    <a href="#" class="btn">وظفني</a>
+                    <a href="#" class="btn_no_bg">تحميل</a>
                 </div>
             </div>
             <div class="div_img">
@@ -73,19 +73,18 @@
     <section class="about">
         <div class="container">
             <div class="div_text">
-                <h5>about me</h5>
-                <h2><span>Enthusiastic Developer</span></h2>
-                <p>I am an enthusiastic web developer and Python programmer with a background in network design and
-                    management. Since graduating, I have developed a broad set of skills that allow me to deliver
-                    high-quality solutions to my clients. I am dedicated to help individuals achieve
-                    their goals online, and I am eager to collaborate with you on your next project.</p>
+                <h5>نبذة عني</h5>
+                <h2><span>مطور شغوف</span></h2>
+                <p>مطور ويب شغوف ومبرمج بايثون لدي خلفية في تصميم وإدارة الشبكات. منذ تخرجي، قمت بتطوير مجموعة واسعة
+                    من المهارات التي تتيح لي تقديم حلول عالية الجودة لعملائي. أنا مكرس لمساعدة الأفراد على تحقيق أهدافهم
+                    عبر الإنترنت، وأتطلع للتعاون معك في مشروعك القادم.</p>
                 <ul>
-                    <li><i class="fa-solid fa-check"></i> Network Designer & Manager</li>
-                    <li><i class="fa-solid fa-check"></i> Web Developer</li>
-                    <li><i class="fa-solid fa-check"></i> Python Programmer</li>
-                    <li><i class="fa-solid fa-check"></i> IT Trubleshooter</li>
+                    <li><i class="fa-solid fa-check"></i> مصمم ومدير شبكات</li>
+                    <li><i class="fa-solid fa-check"></i> مطور ويب</li>
+                    <li><i class="fa-solid fa-check"></i> مبرمج بايثون</li>
+                    <li><i class="fa-solid fa-check"></i> متخصص في حل مشاكل تقنية المعلومات</li>
                 </ul>
-                <a href="img/MisharyAlghamdi.pdf" download class="btn">Download CV</a>
+                <a href="img/MisharyAlghamdi.pdf" download class="btn">تحميل السيرة الذاتية</a>
             </div>
             <div class="div_img">
                 <img src="img/logo_good.png" alt="">
@@ -97,6 +96,6 @@
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-<script src="script.js"></script>
+<script src="script_ar.js"></script>
 
 </html>
